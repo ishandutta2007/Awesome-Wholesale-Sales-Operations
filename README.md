@@ -63,78 +63,78 @@ Below is a detailed comparison of market-leading SaaS and hosted platforms for w
 
 Open-source solutions give wholesale distributors, manufacturers, and agencies total **data sovereignty**, zero per-user licensing fees, and full freedom to customize complex B2B logic. 
 
-Below are the top active open-source projects, **sorted strictly in descending order by GitHub star count**. Each badge displays live stars and links directly to the project's stargazers page.
+Below are the top active open-source projects, **sorted strictly in descending order by GitHub Stars_Count**. Each badge displays live stars and links directly to the project's stargazers page.
 
-1. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+1. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
    Modern open-source CRM alternative to Salesforce. Offers custom business objects, GraphQL API, and pipeline automation ideal for wholesale client account management, sales representative assignments, and deals. `AGPL-3.0`
 
-2. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+2. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    Comprehensive, modular open-source ERP with native wholesale management: tiered customer price lists, sales orders, warehouse batch tracking, multi-currency invoicing, landed cost computation, and B2B portal. `GPL-3.0`
 
-3. **[Medusa](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
+3. **[Medusa](https://github.com/medusajs/medusa)** [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
    Composable headless commerce engine with a dedicated B2B module: corporate customer accounts, customer-specific price lists, wholesale threshold quantities, credit terms, and multi-warehouse fulfillment. `MIT`
 
-4. **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
+4. **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub_Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
    Enterprise-ready Laravel eCommerce platform with B2B wholesale extensions: Request for Quote (RFQ), tiered volume pricing, customer group rules, wholesale catalog permissions, and multi-vendor capabilities. `MIT`
 
-5. **[Krayin CRM](https://github.com/krayin/laravel-crm)** [![GitHub stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers)  
+5. **[Krayin CRM](https://github.com/krayin/laravel-crm)** [![GitHub_Stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers)  
    Lightweight, high-performance Laravel CRM designed for lead tracking, customer lifecycle management, custom sales pipeline stages, and wholesale quotation monitoring. `MIT`
 
-6. **[Saleor](https://github.com/saleor/saleor)** [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
+6. **[Saleor](https://github.com/saleor/saleor)** [![GitHub_Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
    Ultra-fast GraphQL-first headless commerce platform featuring multi-channel and multi-warehouse inventory, customer-specific pricing channels, complex tax calculation rules, and wholesale purchasing workflows. `BSD-3-Clause`
 
-7. **[Spree Commerce](https://github.com/spree/spree)** [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
+7. **[Spree Commerce](https://github.com/spree/spree)** [![GitHub_Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
    Mature Ruby on Rails commerce platform with native wholesale features: spreadsheet-style quick-order grid entry, wholesale threshold pricing, buyer organizations, role-based checkout, and ship-date pre-orders. `BSD-3-Clause`
 
-8. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+8. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
    Source-available invoicing, quotes, purchase orders, and payment tracking suite built with Laravel & Flutter. Ideal for wholesale client billing, custom net payment terms (Net-30/60/90), and vendor payment portals. `GPL-3.0`
 
-9. **[Crater](https://github.com/crater-invoice-inc/crater)** [![GitHub stars](https://img.shields.io/github/stars/crater-invoice-inc/crater?style=social&color=white)](https://github.com/crater-invoice-inc/crater/stargazers)  
+9. **[Crater](https://github.com/crater-invoice-inc/crater)** [![GitHub_Stars](https://img.shields.io/github/stars/crater-invoice-inc/crater?style=social&color=white)](https://github.com/crater-invoice-inc/crater/stargazers)  
    Self-hosted invoicing and billing tool for distributors, agencies, and wholesale businesses. Track estimates, purchase orders, payment receipts, and localized tax calculations with mobile apps. `MIT`
 
-10. **[Dolibarr](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)  
+10. **[Dolibarr](https://github.com/Dolibarr/dolibarr)** [![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)  
     Modular open-source ERP and CRM for SMEs. Covers end-to-end wholesale order capture, warehouse inventory tracking, supplier management, commercial proposals, stock replenishment, and point-of-sale. `GPL-3.0`
 
-11. **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
+11. **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub_Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
     Intuitive open-source inventory management and stock tracking system for wholesale distributors, manufacturers, and warehouses. Features barcode/QR scanning, batch tracking, and supplier part mapping. `MIT`
 
-12. **[SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)** [![GitHub stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers)  
+12. **[SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)** [![GitHub_Stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers)  
     Enterprise-grade open-source CRM for wholesale account management, distributor pipelines, contract renewals, sales team territories, and automated quote-to-order workflows. `AGPL-3.0`
 
-13. **[Solidus](https://github.com/solidusio/solidus)** [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
+13. **[Solidus](https://github.com/solidusio/solidus)** [![GitHub_Stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
     Highly customizable Ruby on Rails eCommerce framework with strong multi-store support, B2B wholesale checkout flows, contract pricing matrices, and flexible 3PL fulfillment integrations. `BSD-3-Clause`
 
-14. **[Frappe CRM](https://github.com/frappe/crm)** [![GitHub stars](https://img.shields.io/github/stars/frappe/crm?style=social&color=white)](https://github.com/frappe/crm/stargazers)  
+14. **[Frappe CRM](https://github.com/frappe/crm)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/crm?style=social&color=white)](https://github.com/frappe/crm/stargazers)  
     Modern open-source CRM built natively on the Frappe framework. Features seamless bi-directional integration with ERPNext for unified sales operations, pipeline stages, and wholesale buyer omnichannel logs. `GPL-3.0`
 
-15. **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
+15. **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub_Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
     Single-page application CRM with REST API. Offers customizable entities for wholesale accounts, distributor territories, lead scoring, and automated order state notifications. `GPL-3.0`
 
-16. **[Django-CRM](https://github.com/Django-CRM/Django-CRM)** [![GitHub stars](https://img.shields.io/github/stars/Django-CRM/Django-CRM?style=social&color=white)](https://github.com/Django-CRM/Django-CRM/stargazers)  
+16. **[Django-CRM](https://github.com/Django-CRM/Django-CRM)** [![GitHub_Stars](https://img.shields.io/github/stars/Django-CRM/Django-CRM?style=social&color=white)](https://github.com/Django-CRM/Django-CRM/stargazers)  
     Python & Django CRM platform with multi-tenant architecture, sales pipelines, account management, and distributor contact tracking. `MIT`
 
-17. **[DaybydayCRM](https://github.com/Bottelet/DaybydayCRM)** [![GitHub stars](https://img.shields.io/github/stars/Bottelet/DaybydayCRM?style=social&color=white)](https://github.com/Bottelet/DaybydayCRM/stargazers)  
+17. **[DaybydayCRM](https://github.com/Bottelet/DaybydayCRM)** [![GitHub_Stars](https://img.shields.io/github/stars/Bottelet/DaybydayCRM?style=social&color=white)](https://github.com/Bottelet/DaybydayCRM/stargazers)  
     Lightweight CRM built with Laravel & Vue to organize leads, client orders, tasks, and daily wholesale account representative workflows. `Apache-2.0`
 
-18. **[Corteza](https://github.com/cortezaproject/corteza)** [![GitHub stars](https://img.shields.io/github/stars/cortezaproject/corteza?style=social&color=white)](https://github.com/cortezaproject/corteza/stargazers)  
+18. **[Corteza](https://github.com/cortezaproject/corteza)** [![GitHub_Stars](https://img.shields.io/github/stars/cortezaproject/corteza?style=social&color=white)](https://github.com/cortezaproject/corteza/stargazers)  
     Low-code digital operations platform with built-in CRM and workflow automation engine for designing custom B2B wholesale order routing, multi-level approvals, and custom distributor portals. `Apache-2.0`
 
-19. **[YetiForce CRM](https://github.com/YetiForceCompany/YetiForceCRM)** [![GitHub stars](https://img.shields.io/github/stars/YetiForceCompany/YetiForceCRM?style=social&color=white)](https://github.com/YetiForceCompany/YetiForceCRM/stargazers)  
+19. **[YetiForce CRM](https://github.com/YetiForceCompany/YetiForceCRM)** [![GitHub_Stars](https://img.shields.io/github/stars/YetiForceCompany/YetiForceCRM?style=social&color=white)](https://github.com/YetiForceCompany/YetiForceCRM/stargazers)  
     Feature-dense CRM system with over 100 enterprise modules tailored for wholesale supply chain relations, field sales rep routing, and service agreements. `YetiForce Public License`
 
-20. **[Relaticle](https://github.com/relaticle/relaticle)** [![GitHub stars](https://img.shields.io/github/stars/relaticle/relaticle?style=social&color=white)](https://github.com/relaticle/relaticle/stargazers)  
+20. **[Relaticle](https://github.com/relaticle/relaticle)** [![GitHub_Stars](https://img.shields.io/github/stars/relaticle/relaticle?style=social&color=white)](https://github.com/relaticle/relaticle/stargazers)  
     Next-generation open-source CRM with native AI agent support, built on Laravel and Filament with 37 Model Context Protocol (MCP) tools, REST APIs, and self-hosted wholesale customer tracking. `MIT`
 
-21. **[OroCRM](https://github.com/oroinc/crm-application)** [![GitHub stars](https://img.shields.io/github/stars/oroinc/crm-application?style=social&color=white)](https://github.com/oroinc/crm-application/stargazers)  
+21. **[OroCRM](https://github.com/oroinc/crm-application)** [![GitHub_Stars](https://img.shields.io/github/stars/oroinc/crm-application?style=social&color=white)](https://github.com/oroinc/crm-application/stargazers)  
     Open-source CRM built by the founders of Magento, purpose-built for multichannel commerce and wholesale buyer 360-degree journey tracking across retail and distribution. `OSL-3.0`
 
-22. **[NextCRM](https://github.com/pdovhomilja/nextcrm-app)** [![GitHub stars](https://img.shields.io/github/stars/pdovhomilja/nextcrm-app?style=social&color=white)](https://github.com/pdovhomilja/nextcrm-app/stargazers)  
+22. **[NextCRM](https://github.com/pdovhomilja/nextcrm-app)** [![GitHub_Stars](https://img.shields.io/github/stars/pdovhomilja/nextcrm-app?style=social&color=white)](https://github.com/pdovhomilja/nextcrm-app/stargazers)  
     Modern CRM built with Next.js 16, React 19, PostgreSQL, and Prisma for tracking wholesale deals, documents, and client contacts. `MIT`
 
-23. **[OroCommerce](https://github.com/oroinc/orocommerce)** [![GitHub stars](https://img.shields.io/github/stars/oroinc/orocommerce?style=social&color=white)](https://github.com/oroinc/orocommerce/stargazers)  
+23. **[OroCommerce](https://github.com/oroinc/orocommerce)** [![GitHub_Stars](https://img.shields.io/github/stars/oroinc/orocommerce?style=social&color=white)](https://github.com/oroinc/orocommerce/stargazers)  
     The flagship open-source B2B commerce platform engineered specifically for wholesale distributors, manufacturers, and large brands. Includes corporate buyer hierarchy, custom pricing, RFQ, and ERP sync. `OSL-3.0`
 
-24. **[Aiku](https://github.com/Inikoo-Ltd/aiku)** [![GitHub stars](https://img.shields.io/github/stars/Inikoo-Ltd/aiku?style=social&color=white)](https://github.com/Inikoo-Ltd/aiku/stargazers)  
+24. **[Aiku](https://github.com/Inikoo-Ltd/aiku)** [![GitHub_Stars](https://img.shields.io/github/stars/Inikoo-Ltd/aiku?style=social&color=white)](https://github.com/Inikoo-Ltd/aiku/stargazers)  
     Open-source white-label ERP web app with Faire wholesale marketplace integration, warehouse picking/packing/label printing, carrier APIs (DPD, GLS, APC, CTT, Packeta), and first-party MCP server. `AGPL-3.0`
 
 ---
@@ -157,7 +157,7 @@ Contributions are warmly welcomed! Help us keep this directory accurate, compreh
 1. 🍴 Fork the repository.
 2. 📝 Edit `README.md` following the existing format:
    - For SaaS: Include name, official URL, company scale (valuation/revenue), specific starting pricing, and specific free tier/trial limits.
-   - For Open-Source: Include name, official repo URL, social star badge linking to stargazers, 1–2 sentence description of wholesale/B2B relevance, and SPDX license.
+   - For Open-Source: Include name, official repo URL, social Stars_Badge linking to stargazers, 1–2 sentence description of wholesale/B2B relevance, and SPDX license.
 3. 🔀 Ensure entries maintain proper sort orders (SaaS by valuation/revenue descending; open-source by stars descending).
 4. 🚀 Submit a Pull Request with a brief explanation of why the addition or edit is valuable.
 
